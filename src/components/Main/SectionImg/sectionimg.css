@@ -1,0 +1,24 @@
+.img-wrapper{
+    width: 100%;
+    margin-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-wrapper__content{
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+    align-items: center;
+}
+
+.img-text{
+    font-family: Fraunces;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 37.5px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: center;
+    color: #242F65;    
+}
